@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksandar Ristic
 - 👀 I’m interested in professional advancement and improvement
 - 🌱 I’m currently learning React JS
-- 💞️ I'm seeking for career start opportunity
+- 💻 Seeking for career start opportunity
 - 📫 Contact me on risticbro@gmail.com
 
 <!---
