@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aleksandar Ristic
-- 👀 I’m interested in professional advancement and improvement
-- 🌱 I’m currently learning React JS
-- 💻 Seeking for career start opportunity
+- 💻 Junior Front-End Developer
+- 👀 I'm seeking for career start opportunity
+- 🌱 Currently learning React JS
 - 📫 Contact me on risticbro@gmail.com
 
 <!---
