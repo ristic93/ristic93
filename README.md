@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristic93&label=Profile%20views&color=0e75b6&style=flat" alt="ristic93" /> </p>
 
-- 💬 Feel free to contact me for anything
-
 - 💻 Junior Front-End Developer
 
 - 👀 I'm seeking for career start opportunity
@@ -12,6 +10,8 @@
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 Take a look at my portfolio site  [https://portfolio-ristic93.netlify.app/](https://portfolio-ristic93.netlify.app/)
+
+- 💬 Feel free to contact me for anything
 
 - 📫 Contact me on **risticbro@gmail.com**
 
