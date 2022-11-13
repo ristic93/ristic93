@@ -15,7 +15,7 @@
 
 - 📫 Contact me on **risticbro@gmail.com**
 
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Fun fact - Internet users blink less than usual :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
