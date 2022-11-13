@@ -7,7 +7,7 @@
 
 - 👀 I'm seeking for career start opportunity
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 Currently learning **React JS**
 
 - 👨‍💻 Take a look at my portfolio site  [https://portfolio-ristic93.netlify.app/](https://portfolio-ristic93.netlify.app/)
 
