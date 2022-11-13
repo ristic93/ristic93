@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandar Ristic
+#👋 Hi, I’m Aleksandar Ristic
 - 💻 Junior Front-End Developer
 - 👀 I'm seeking for career start opportunity
 - 🌱 Currently learning React JS
