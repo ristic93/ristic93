@@ -11,9 +11,7 @@
 
 - 👨‍💻 Take a look at my portfolio site  [portfolio-ristic93.netlify.app](https://portfolio-ristic93.netlify.app/)
 
-- 💬 Feel free to contact me for anything
-
-- 📫 Contact me on **risticbro@gmail.com**
+- 💬 Feel free to contact me for anything **risticbro@gmail.com**
 
 - ⚡ Fun fact - Internet users blink less than usual :)
 
