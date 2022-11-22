@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **React JS**
 
-- 👨‍💻 Take a look at my portfolio site  [portfolio-ristic93.netlify.app](https://portfolio-ristic93.netlify.app/)
+- 👨‍💻 Take a look at my portfolio site  [portfolio](https://portfolio-ristic93.netlify.app/)
 
 - 💬 Feel free to contact me for anything **risticbro@gmail.com**
 
