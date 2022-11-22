@@ -13,6 +13,8 @@
 
 - 💬 Feel free to contact me for anything **risticbro@gmail.com**
 
+- 📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10069660/Aleksandar.RIstic.CV.pdf)
+
 - ⚡ Fun fact - Internet users blink less than usual :)
 
 <h3 align="left">Connect with me:</h3>
