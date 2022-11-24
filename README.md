@@ -9,11 +9,12 @@
 
 - 🌱 Currently learning **React JS**
 
-- 👨‍💻 Take a look at my portfolio site  [Portfolio](https://portfolio-ristic93.netlify.app/)
+- 👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  
 
 - 💬 Feel free to contact me for anything **risticbro@gmail.com**
 
-- 📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10069660/Aleksandar.RIstic.CV.pdf)
+- 📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10084797/Aleksandar.RIstic.CV.pdf)
+
 
 - ⚡ Fun fact - Internet users blink less than usual :)
 
