@@ -15,8 +15,11 @@
 
 - 📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10084797/Aleksandar.RIstic.CV.pdf)
 
-
 - ⚡ Fun fact - Internet users blink less than usual :)
+
+<ul>
+  <li>💻 Junior Front-End Developer</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
