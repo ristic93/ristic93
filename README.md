@@ -19,6 +19,12 @@
 
 <ul>
   <li>💻 Junior Front-End Developer</li>
+  <li>👀 I'm seeking for career start opportunity</li>
+  <li>🌱 Currently learning **React JS**</li>
+  <li>👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  </li>
+  <li>💬 Feel free to contact me for anything **risticbro@gmail.com**</li>
+  <li>📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10084797/Aleksandar.RIstic.CV.pdf)</li>
+  <li>⚡ Fun fact - Internet users blink less than usual :)</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
