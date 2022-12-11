@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact - Internet users blink less than usual :)
 
-<div>
+<div style="lineHeight: 1px">
   <p>💻 Junior Front-End Developer</p>
   <p>👀 I'm seeking for career start opportunity</p>
   <p>🌱 Currently learning **React JS**</p>
