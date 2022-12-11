@@ -17,16 +17,6 @@
 
 - ⚡ Fun fact - Internet users blink less than usual :)
 
-<div style="lineHeight: 1px">
-  <p>💻 Junior Front-End Developer</p>
-  <p>👀 I'm seeking for career start opportunity</p>
-  <p>🌱 Currently learning **React JS**</p>
-  <p>👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  </p>
-  <p>💬 Feel free to contact me for anything **risticbro@gmail.com**</p>
-  <p>📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10084797/Aleksandar.RIstic.CV.pdf)</p>
-  <p>⚡ Fun fact - Internet users blink less than usual :)</p>
-</div>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aleksandar93/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar93/" height="30" width="40" /></a>
