@@ -17,15 +17,15 @@
 
 - ⚡ Fun fact - Internet users blink less than usual :)
 
-<ul>
-  <li>💻 Junior Front-End Developer</li>
-  <li>👀 I'm seeking for career start opportunity</li>
-  <li>🌱 Currently learning **React JS**</li>
-  <li>👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  </li>
-  <li>💬 Feel free to contact me for anything **risticbro@gmail.com**</li>
-  <li>📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10084797/Aleksandar.RIstic.CV.pdf)</li>
-  <li>⚡ Fun fact - Internet users blink less than usual :)</li>
-</ul>
+<div>
+  <p>💻 Junior Front-End Developer</p>
+  <p>👀 I'm seeking for career start opportunity</p>
+  <p>🌱 Currently learning **React JS**</p>
+  <p>👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  </p>
+  <p>💬 Feel free to contact me for anything **risticbro@gmail.com**</p>
+  <p>📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10084797/Aleksandar.RIstic.CV.pdf)</p>
+  <p>⚡ Fun fact - Internet users blink less than usual :)</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
