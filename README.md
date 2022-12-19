@@ -11,7 +11,7 @@
 
 - 👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  
 
-- 💬 Feel free to contact me for anything **risticbro@gmail.com**
+- 💬 Feel free to contact me for anything **a.ristic93dev@gmail.com**
 
 - 📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10084797/Aleksandar.RIstic.CV.pdf)
 
