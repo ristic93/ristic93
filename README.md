@@ -34,7 +34,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="![image](https://user-images.githubusercontent.com/110178135/212938233-0035c30c-475b-4a76-8ee7-b87908ef4525.png)
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/110178135/212938233-0035c30c-475b-4a76-8ee7-b87908ef4525.png
 " alt="gitHub" width="40" height="40"/> </a> 
 </p>
 
