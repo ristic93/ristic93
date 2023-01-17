@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Ristic</h1>
-<h3 align="center">Frontend Developer React.js | JavaScript | SCSS/SASS | CSS3 | HTML5</h3>
+<h3 align="center">Frontend Developer React.js | JavaScript | Tailwind CSS |  Bootstrap | SCSS/SASS | CSS3 | HTML5</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristic93&label=Profile%20views&color=0e75b6&style=flat" alt="ristic93" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👀 I'm seeking for career start opportunity
 
-- 🌱 Currently learning **React JS**
+- 🌱 Currently learning **React JS & Typescript**
 
 - 👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  
 
