@@ -13,7 +13,8 @@
 
 - 💬 Feel free to contact me for anything **ristic16210@gmail.com**
 
-- 📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10437787/Aleksandar.Ristic.CV.pdf)
+- 📚 My Resume preview [CV](https://github.com/ristic93/ristic93/files/10445842/Aleksandar.Ristic.CV.pdf)
+
 
 - ⚡ Fun fact - Internet users blink less than usual :)
 
