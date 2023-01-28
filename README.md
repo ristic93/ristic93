@@ -5,8 +5,6 @@
 
 - 💻 Junior Front-End Developer
 
-- 👀 I'm seeking for career start opportunity
-
 - 🌱 Currently learning **React JS & Typescript**
 
 - 👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  
