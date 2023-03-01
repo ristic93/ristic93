@@ -5,7 +5,7 @@
 
 - 💻 Junior Front-End Developer
 
-- 🌱 Currently learning **React JS**
+- 🌱 Currently learning **React.js**
 
 - 👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  
 
