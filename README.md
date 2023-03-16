@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristic93&label=Profile%20views&color=0e75b6&style=flat" alt="ristic93" /> </p>
 
-- 💻 Junior Front-End Developer
+- 💻 Front-End Developer
 
 - 🌱 Currently learning **React.js**
 
