@@ -37,6 +37,8 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="fireBase" width="40" height="40"/> </a> 
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ristic93&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ristic93&hide=TeX&layout=compact)
 
 
