@@ -39,7 +39,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ristic93&hide=TeX&layout=compact)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ristic93/ristic93/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 ristic93/ristic93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
