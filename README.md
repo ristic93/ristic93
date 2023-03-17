@@ -37,6 +37,8 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="fireBase" width="40" height="40"/> </a> 
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact)
+
 <!---
 ristic93/ristic93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
