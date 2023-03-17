@@ -37,7 +37,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="fireBase" width="40" height="40"/> </a> 
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ristic93&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ristic93&hide=TeX&layout=compact)
 
 <!---
