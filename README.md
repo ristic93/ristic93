@@ -1,5 +1,5 @@
 <h1 align="left">Hello there 👋, I'm Aleksandar Ristic</h1>
-<h3 align="left">Frontend Developer 🧑‍💻 React.js | JavaScript | Tailwind CSS |  Bootstrap | SCSS/SASS | CSS3 | HTML5</h3>
+<h3 align="left">Frontend Developer 👨‍💻 React.js | JavaScript | Tailwind CSS |  Bootstrap | SCSS/SASS | CSS3 | HTML5</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristic93&label=Profile%20views&color=0e75b6&style=flat" alt="ristic93" /> </p>
 
@@ -34,7 +34,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS" width="40" height="40"/> </a> 
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png" alt="netlify" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="fireBase" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="fireBase" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSakzKwfsWpvJVCZaWodZMFxJEseDp8NhrQisYDabt2ag&s" alt="postman" width="40" height="40"/> </a> 
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ristic93&theme=dark&background=000000)](https://git.io/streak-stats)
