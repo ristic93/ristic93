@@ -1,5 +1,5 @@
-<h1 align="left">Hello there 👋, I'm Aleksandar Ristic</h1>
-<h3 align="left">Frontend Developer 👨‍💻 React.js | JavaScript | Tailwind CSS |  Bootstrap | SCSS/SASS | CSS3 | HTML5</h3>
+## Hello there 👋, I'm Aleksandar Ristic
+### Frontend Developer 👨‍💻 React.js | JavaScript | Tailwind CSS |  Bootstrap | SCSS/SASS | CSS3 | HTML5
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristic93&label=Profile%20views&color=0e75b6&style=flat" alt="ristic93" /> </p>
 
