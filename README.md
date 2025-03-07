@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristic93&label=Profile%20views&color=0e75b6&style=flat" alt="ristic93" /> </p>
 
-- 👨‍💻 Take a look at my [Website](https://portfolio-ristic93.netlify.app/](https://ristic93.netlify.app/))  
+- 👨‍💻 Take a look at my [Website](https://ristic93.netlify.app/)
 
 - 💬 Feel free to contact me at **ristic16210@gmail.com**
 
@@ -38,8 +38,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="fireBase" width="40" height="40"/> </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
-![GitHub stats](https://img.shields.io/github/stars/ristic93?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ristic93&theme=tokyonight)
 
