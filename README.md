@@ -1,9 +1,9 @@
 <h1 align="left">Hello there 👋, I'm Aleksandar Ristic</h1>
-<h3 align="left">Frontend Developer 👨‍💻 React.js | JavaScript | Tailwind CSS |  Bootstrap | SCSS/SASS | CSS3 | HTML5</h3>
+<h3 align="left">Frontend Developer 👨‍💻 React.js | JavaScript | Tailwind CSS |  Shadcn | SCSS/SASS | CSS3 | HTML5</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ristic93&label=Profile%20views&color=0e75b6&style=flat" alt="ristic93" /> </p>
 
-- 👨‍💻 Take a look at my [Portfolio](https://portfolio-ristic93.netlify.app/) website  
+- 👨‍💻 Take a look at my [Website]([https://portfolio-ristic93.netlify.app/](https://ristic93.netlify.app/))  
 
 - 💬 Feel free to contact me at **ristic16210@gmail.com**
 
