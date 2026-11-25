@@ -5,7 +5,7 @@
 
 - 👨‍💻 Take a look at my [Website](https://ristic93.netlify.app/)
 
-- 💬 Feel free to contact me at **ristic16210@gmail.com**
+- 💬 Feel free to contact me at **risticbro@gmail.com**
 
 - ⚡ Fun fact - Internet users blink less than usual :)
 
